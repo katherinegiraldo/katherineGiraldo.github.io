@@ -2,8 +2,7 @@
 
 Hola soy katherine y este fue mi primer [Proyecto](https://www.youtube.com/watch?v=noEPFLBbEMA) en el campo de la producción de animación en CGI con tÉcnica en 3D. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Este fue mi primer proyecto en el campo de la programación Frontend [Proyecto](https://pensionate.com.co/) 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
