@@ -1,6 +1,6 @@
 ## Welcome to Katherine Giraldo López
 
-You can use the [editor on GitHub](https://github.com/katherinegiraldo/katherineGiraldo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hola soy katherine y este fue mi primer [Proyecto](https://www.youtube.com/watch?v=noEPFLBbEMA) en el campo de la producción de animación en CGI con tÉcnica en 3D. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
