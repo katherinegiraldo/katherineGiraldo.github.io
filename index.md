@@ -12,7 +12,7 @@ Syntax highlighted code block
 
 #kt
 ## kathegiraldo
-### vio 3
+###no se puede dejar espacio entre la almuhadila
 
 - Bulleted
 - List
